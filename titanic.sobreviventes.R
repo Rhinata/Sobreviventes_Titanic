@@ -1,17 +1,16 @@
 
 ---
-  title: "Titanic.sobreviventes"
+title: "Titanic.sobreviventes"
 author: "Renata Augusto Dantas"
 ---
   
 # Estatistica de sobreviventes do famoso naufrágio (titanic).
 # Para isso iremos utilizar o pacote tidyverse para nos auxiliar nesta analise.
 ---
-  
- install.packages("tidyverse")
- install.packages("randomForest")
- install.packages("ggplot2")
- install.packages("gplot")
+install.packages("tidyverse")
+install.packages("randomForest")
+install.packages("ggplot2")
+install.packages("gplot")
 library("dplyr")
 library("ggplot2")
 library("randomForest")
